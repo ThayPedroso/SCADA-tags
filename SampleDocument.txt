@@ -1,0 +1,51 @@
+Descrição de motores
+1.
+Tag	M1
+CommandStart	Start
+CommandStop	Stop
+Input	241.5:I
+Output	242.3:O
+Panel	CCM1
+TimeRunning (s)	0
+Description	Motor correia
+
+2.
+Tag	M2
+CommandStart	Start
+CommandStop	Stop
+Input	240.5:I
+Output	241.0:O
+Panel	CCM3
+TimeRunning (s)	3600
+Description	Motor elevador 
+
+3.
+Tag	M3
+CommandStart	Start
+CommandStop	Stop
+Input	238.3:I
+Output	239.0:O
+Panel	CCM2
+TimeRunning (s)	72000
+Description	Motor esteira
+
+4.
+Tag	M4
+CommandStart	Start
+CommandStop	Stop
+Input	237.5:I
+Output	235.0:O
+Panel	CCM1
+TimeRunning (s)	84000
+Description	Motor moega
+
+5.
+Tag	M5
+CommandStart	Start
+CommandStop	Stop
+Input	236.3:I
+Output	234.0:O
+Panel	CCM1
+TimeRunning (s)	9600000
+Description	Motor misturador
+
